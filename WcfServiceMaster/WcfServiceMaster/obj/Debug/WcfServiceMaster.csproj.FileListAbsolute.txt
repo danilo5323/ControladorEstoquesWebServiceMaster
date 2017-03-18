@@ -1,0 +1,6 @@
+C:\Users\Desenvolvedor\Documents\GitHub\ControladorEstoquesWebServiceMaster\WcfServiceMaster\WcfServiceMaster\bin\WcfServiceMaster.dll.config
+C:\Users\Desenvolvedor\Documents\GitHub\ControladorEstoquesWebServiceMaster\WcfServiceMaster\WcfServiceMaster\bin\WcfServiceMaster.dll
+C:\Users\Desenvolvedor\Documents\GitHub\ControladorEstoquesWebServiceMaster\WcfServiceMaster\WcfServiceMaster\bin\WcfServiceMaster.pdb
+C:\Users\Desenvolvedor\Documents\GitHub\ControladorEstoquesWebServiceMaster\WcfServiceMaster\WcfServiceMaster\obj\Debug\WcfServiceMaster.csprojResolveAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\GitHub\ControladorEstoquesWebServiceMaster\WcfServiceMaster\WcfServiceMaster\obj\Debug\WcfServiceMaster.dll
+C:\Users\Desenvolvedor\Documents\GitHub\ControladorEstoquesWebServiceMaster\WcfServiceMaster\WcfServiceMaster\obj\Debug\WcfServiceMaster.pdb
